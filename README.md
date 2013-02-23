@@ -1,0 +1,4 @@
+puppettest
+==========
+
+Puppet playground
